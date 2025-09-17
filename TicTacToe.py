@@ -54,4 +54,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-//Comment from zhuiyuyu:This is a super simple tic-tac-toe game!
+#This is a super simple tic-tac-toe game!
