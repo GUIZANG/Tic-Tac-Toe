@@ -1,3 +1,6 @@
+#author:Zhang Yanyun, 72512159, GUIZANG
+
+
 def is_win(game):
     win = False
     # Check rows
