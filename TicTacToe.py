@@ -34,7 +34,7 @@ def main():
             print("Player 1: ", end="")
         else:
             print("Player 2: ", end="")
-        print("Which cell to mark? i:[1..3], j:[1..3]: ")
+        print("Which cell to mark? i:[1..3], j:[1..3]: ") # select spot in martix
         i, j = map(int, input().split())
         i -= 1
         j -= 1
